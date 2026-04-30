@@ -1,4 +1,4 @@
-# Fan Modeling and PID Controller Project
+# MBD with PID Controller
 MATLAB/Simulink-based Modeling and Control Design for a Fan System
 
 ---
