@@ -1,0 +1,10 @@
+-IC:/Work/RD/Projects/Fan/CodeGeneration
+-I"C:/Program Files/MATLAB/R2024b/toolbox/rtw/targets/pil/c"
+-IC:/Work/RD/Projects/Fan/CodeGeneration/slprj/ert/fan_control/coderassumptions
+-IC:/Work/RD/Projects/Fan/CodeGeneration/slprj/ert/fan_control
+-I"C:/Program Files/MATLAB/R2024b/extern/include"
+-I"C:/Program Files/MATLAB/R2024b/simulink/include"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src/ext_mode/common"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/ert"
+-IC:/Work/RD/Projects/Fan/CodeGeneration/slprj/ert/_sharedutils

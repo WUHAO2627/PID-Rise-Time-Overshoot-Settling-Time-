@@ -1,0 +1,1 @@
+var modelInfo = {model:"fan_control"};var modelHierarchy=[{model:"fan_control",relativePath:"_internal.html",parent:"null"},];var AddCode = true;var ProtectedModel = false;

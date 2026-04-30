@@ -1,0 +1,1 @@
+var reportPages = [["Summary","fan_control_survey.html"],["Subsystem Report","fan_control_subsystems.html"],["Traceability Report","fan_control_trace.html"],["Static Code Metrics Report","fan_control_metrics.html"],["Code Replacements Report","fan_control_replacements.html"],["Coder Assumptions","fan_control_coderassumptions.html"]];
