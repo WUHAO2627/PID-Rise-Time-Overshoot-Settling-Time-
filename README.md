@@ -3,7 +3,7 @@ MATLAB/Simulink-based Modeling and Control Design for a Fan System
 
 ---
 
-## 1. Project Overview
+## 1. Overview
 This repository contains the complete modeling, simulation, and control design for a fan system using MATLAB/Simulink. The primary goal is to design, tune, and validate a PID controller to meet specific transient performance requirements.
 
 ---
